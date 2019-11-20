@@ -2,7 +2,7 @@
 
 Hast du Angst über die Sicherheit deiner Daten bei öffentlichen Hostern? Nerven dich die ganzen Einschränkungen? Willst du Heer deiner eigenen Bot Armee sein? Also warum nicht einfach selber hosten!
 
-> Das NXTBOTS Team hat sich dazu entschieden jedem die Möglichkeit zu geben, selber seine Bots zu hosten und das auf einem gewohnten Interface. Was du hier bekommst, ist keine geklaute oder billig nachprogrammierte Version von NXTBots nein. Hier bekommst du die originale Version des SMNBOTS V1 Interfaces in der Hosting variante.
+> Das NXTBOTS Team hat sich dazu entschieden jedem die Möglichkeit zu geben, selber seine Bots zu hosten und das auf einem gewohnten Interface. Was du hier bekommst, ist keine geklaute oder billig nachprogrammierte Version von SMN kake und zwar eine leicht endbugte und verbesserte version von NXTBots. Hier bekommst du die originale Version des SMNBOTS V1 Interfaces in der Hosting variante.
 
 # Instalation
 
