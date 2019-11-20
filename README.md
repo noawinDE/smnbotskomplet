@@ -2,7 +2,7 @@
 
 Hast du Angst über die Sicherheit deiner Daten bei öffentlichen Hostern? Nerven dich die ganzen Einschränkungen? Willst du Heer deiner eigenen Bot Armee sein? Also warum nicht einfach selber hosten!
 
-> Das NXTBOTS Team hat sich dazu entschieden jedem die Möglichkeit zu geben, selber seine Bots zu hosten und das auf einem gewohnten Interface. Was du hier bekommst, ist keine geklaute oder billig nachprogrammierte Version von SMN kake und zwar eine leicht endbugte und verbesserte version von NXTBots. Hier bekommst du die originale Version des SMNBOTS V1 Interfaces in der Hosting variante.
+> Das NXTBOTS Team hat sich dazu entschieden jedem die Möglichkeit zu geben, selber seine Bots zu hosten und das auf einem gewohnten Interface. Was du hier bekommst, ist keine geklaute oder billig nachprogrammierte Version von SMNkakbots und zwar eine leicht endbugte und verbesserte version von NXTBots. Hier bekommst du die originale Version des SMNBOTS V1 Interfaces in der Hosting variante.
 
 # Instalation
 
@@ -26,6 +26,9 @@ const nodes = array(
   )
 );
 ```
+```
+'key' => 'uid:token',    // API Token (bei der neuen ts3audio bot version)
+'key' => 'uid:ts3ab:token',    // API Token (Aber es muss bei dem pannel so aus schauen)
 # FAQ
 - **Wie füge ich eine weitere Node hinzu?**
 > Eine weitere Node fügst ohne große Kopfschmerzen ein. Gehe dazu einfach in die Config `/vendor/smnbots/Config.php` scrolle bis nach unten zum Bereich `const nodes = array(...)`. Dort stehen alle deine Nodes. Um nun eine weitere Node hinzuzufügen, machst du einfach nach dem letzten Eintrag ein ``,`` und fügst den unten stehenden Code ein (natürlich mit deinen Werten)
