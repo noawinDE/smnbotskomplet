@@ -1,13 +1,11 @@
-# SMNBOTS in der NXTbots Version
+# SMNBOTS VERSION 1.0 - SINGLE (NXTBots Edit)
 
-Hast du Angst über die Sicherheit deiner Daten bei öffentlichen Hostern? Nerven dich die ganzen Einschränkungen? Willst du Heer deiner eigenen Bot Armee sein? Also warum nicht einfach selber hosten!
-
-> Das NXTBOTS Team hat sich dazu entschieden jedem die Möglichkeit zu geben, selber seine Bots zu hosten und das auf einem gewohnten Interface. Was du hier bekommst, ist keine geklaute oder billig nachprogrammierte Version von NXTBots nein. Hier bekommst du die originale Version des SMNBOTS V1 Interfaces in der Hosting variante.
+> Hier bekommst du eine von NXTBots editierte Version des SMNBOTS Interfaces
 
 # Instalation
 
-- Instaliere den [`TS3 Audiobot`](https://github.com/Splamy/TS3AudioBot#install) von Splamy
-- Lade alle Dateien aus dem `web` Ordner auf deinen Webserver hoch
+- Instaliere den TS3 Audiobot von Splamy
+- Lade alle Dateien aus dem ZIP-Ordner auf deinen Webserver hoch
 - Importiere die SQL Datei in deine Datenbank
 - Trage alle benötigten Werte in der Config ein `/vendor/smnbots/Config.php`
 ```php
@@ -22,7 +20,7 @@ const nodes = array(
   1 => array(  
   'host' => '',   // Adresse deines TS3AudioBot Servers
   'port' => 1234, // Port deines TS3AudioBot Servers
-  'key' => '',    // API Token (Dafür musst du den Bot mit !api token anschreiben)
+  'key' => '',    // API Token
   )
 );
 ```
@@ -53,3 +51,7 @@ AllowOverride All
 
 service apache2 restart
 ```
+
+# Original: SMNJAN
+[`GITHUB`](https://github.com/SMNJAN)
+[`WEBSEITE`](https://smnjan.de/)
