@@ -100,14 +100,14 @@ $_LANG = \smnbots\translation::getPHP();
 <h2>Datenschutzerklärung</h2><h3 id="dsg-general-intro"></h3><p>Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO). <br>
 <br>
 </p><h3 id="dsg-general-controller">Verantwortlicher</h3><p><span class="tsmcontroller">Nico Bary<br>
-NXTBots<br>
+MusterFirma<br>
 <br>
-Schleiden 58<br>
-52525 Heinsberg<br>
-Deutschland<br>
+Musterstraße 17<br>
+12345 Musterstadt<br>
+Muster<br>
 <br>
 Tel: auf anfrage<br>
-E-Mail: recht@nxtbots.de<br>
+E-Mail: recht@Muster.de<br>
 <br>
 Geschäftsführer: Nico Bary</span></p><h3 id="dsg-general-datatype">Arten der verarbeiteten Daten</h3><p>-	Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).<br>
 -	Kontaktdaten (z.B., E-Mail, Telefonnummern).<br>
