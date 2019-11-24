@@ -101,19 +101,19 @@ $_LANG = \smnbots\translation::getPHP();
                                 <div class="card-body">
                                     <div id="accordion" class="imprint">
 									<h2>Impressum</h2>
-									<p>Nico Bary<br />
-									Schleiden 58<br />
-									52525 Heinsberg</p>
+									<p>Max Mustermann<br />
+									Musterstraße 17<br />
+									12345 Musterstadt</p>
 									
 									<p>Telefon: Auf anfrage
-									<br />E-Mail: <a href="mailto:recht@nxtbots.de">recht@nxtbots.de</a><br />
+									<br />E-Mail: <a href="mailto:recht@Muster.de">recht@Muster.de</a><br />
 									</p><br /><h2>Hinweis gemäß Online-Streitbeilegungs-Verordnung</h2>
 									<p>Nach geltendem Recht sind wir verpflichtet, Verbraucher auf die Existenz der Europäischen 
 									Online-Streitbeilegungs-Plattform hinzuweisen, die für die Beilegung von Streitigkeiten genutzt 
 									werden kann, ohne dass ein Gericht eingeschaltet werden muss. Für die Einrichtung der Plattform 
 									ist die Europäische Kommission zuständig. Die Europäische Online-Streitbeilegungs-Plattform ist
 									hier zu finden: <a href="http://ec.europa.eu/odr" target="_blank" rel="nofollow">http://ec.europa.eu/odr</a>.
-									Unsere E-Mail lautet: <a href="mailto:recht@nxtbots.de">recht@nxtbots.de</a></p><p>Wir weisen aber darauf 
+									Unsere E-Mail lautet: <a href="mailto:recht@Muster.de">recht@Muster.de</a></p><p>Wir weisen aber darauf 
 									hin, dass wir nicht bereit sind, uns am Streitbeilegungsverfahren im Rahmen der Europäischen Online-Streitbeilegungs-Plattform 
 									zu beteiligen. Nutzen Sie zur Kontaktaufnahme bitte unsere obige E-Mail und Telefonnummer.</p><br />
 									<br /><h2>Disclaimer – rechtliche Hinweise</h2>
