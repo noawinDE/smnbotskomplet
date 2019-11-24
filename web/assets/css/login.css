@@ -1,0 +1,95 @@
+body{
+  padding:0;
+  margin:0;
+}
+
+.login-container{
+  position:relative;
+  height:100vh;
+  overflow:hidden;
+  background-image: url("../img/background-v2.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bgvid.back {
+  position: fixed; right: 0; bottom: 0;
+  min-width: 100%; min-height: 100%;
+  width: auto; height: auto; z-index: -100;
+}
+
+.inner {
+  position: absolute;
+}
+
+.inner-container{
+  width:400px;
+  height:540px;
+  position:absolute;
+  top:calc(50vh - 300px);
+  left:calc(50vw - 200px);
+  overflow:hidden;
+}
+
+.box{
+  position:absolute;
+  height:100%;
+  width:100%;
+  font-family: "Poppins", sans-serif;
+  color:#fff;
+  background: linear-gradient(0deg, #031143 0%, #2445a9 100%);
+  padding:30px 0;
+  border-radius: 10px;
+}
+
+.box h1{
+  text-align:center;
+  margin:30px 0;
+  font-size:30px;
+}
+
+.box input{
+  display:block;
+  width:75%;
+  margin:20px auto;
+  padding:15px;
+  background:rgba(0,0,0,0.2);
+  color:#fff;
+  border:0;
+}
+.box input:focus,.box input:active,.box button:focus,.box button:active{
+  outline:none;
+}
+
+.box button, .box a{
+  font-size:20px;
+  width:75%;
+  margin:20px auto;
+  display:block;
+  cursor:pointer;
+}
+
+.box p{
+  font-size:14px;
+  text-align:center;
+}
+
+.box p span{
+  cursor:pointer;
+  color:#666;
+}
+
+.box .logo{
+  display: block;
+  width: 75%;
+  margin: 20px auto;
+}
+
+.captcha_wrapper{
+  text-align: center;
+}
+
+.captcha_wrapper div{
+    display: inline-block;
+}

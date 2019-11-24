@@ -1,0 +1,16 @@
+{
+    "require": {
+        "bennetgallein/ts3ab-api": "^1.0",
+        "phpmailer/phpmailer": "^6.0",
+        "hautelook/phpass": "^1.1",
+        "ext-pdo": "*",
+      "ext-json": "*",
+      "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "smnbots\\": "vendor/smnbots/"
+        },
+        "files": ["vendor/init.php"]
+    }
+}
