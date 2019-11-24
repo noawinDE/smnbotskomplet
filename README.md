@@ -30,8 +30,8 @@ const nodes = array(
 
 Achtung 
 ```
-'key' => 'uid:token',    // API Token (bei der neuen ts3audio bot version)
-'key' => 'uid:ts3ab:token',    // API Token (Aber es muss bei dem pannel so aus schauen)
+'key' => 'uid:token',    // API Token (bei der neuen TS3AudioBot Version)
+'key' => 'uid:ts3ab:token',    // API Token (Aber es muss bei dem panel so aus schauen)
 
 ```
 # FAQ
