@@ -29,6 +29,12 @@ $array = array(
 		  "#original" => "https://synexitfm.stream.laut.fm => 8080/synexitfm",
 		  "#nightlife" => "https://synexitfmrap.stream.laut.fm/synexitfmrap",
 		  "#charts" => "https://synexitfm80er.stream.laut.fm => 8080/synexitfm80er",
+		  "Alles Radio" => "http://stream.laut.fm/alles-radio",
+		  "Alles Chill" => "http://stream.laut.fm/alles-chill",
+		  "Alles Dance" => "http://stream.laut.fm/alles-dance",
+		  "Alles Techno" => "http://stream.laut.fm/alles-techno",
+		  "Alles Hardstyle" => "http://stream.laut.fm/alles-hardstyle",
+		  "Alles Klub" => "http://stream.laut.fm/alles-klub",
 );
 
 echo json_encode($array);
